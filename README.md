@@ -10,20 +10,21 @@ Iterative Closest Point (ICP) is an alignment algorithm for merging two point cl
 
 # Output Visualization
 - results from open3d dataset
-<p align="center">  
+<div align="center">  
 
   <img src="https://github.com/Taarun-Srinivas/Point-Cloud-Alignment-using-ICP-Algorithm-scratch-implementation-/assets/52371207/d92b7e97-9c57-4c1d-a6ed-a108307ebc55"
      alt="initial alignment o3d example" width = 640 height = 480 />
   <img src="https://github.com/Taarun-Srinivas/Point-Cloud-Alignment-using-ICP-Algorithm-scratch-implementation-/assets/52371207/da0b6ce5-2a41-488f-af20-778d9b613fbc"
      alt="final alignment o3d example" width = 640 height = 480 />
-</p>
-
+</div>
+<br></br>
 
 - results from KITTI dataset
-<p align="center">  
+<div align="center">  
 
   <img src="https://github.com/Taarun-Srinivas/Point-Cloud-Alignment-using-ICP-Algorithm-scratch-implementation-/assets/52371207/731c6df8-e54e-4a91-b1c0-83318b1f03d7"
      alt="initial alignment pcd example" width = 640 height = 480 />
   <img src="https://github.com/Taarun-Srinivas/Point-Cloud-Alignment-using-ICP-Algorithm-scratch-implementation-/assets/52371207/b3f725bd-9c80-4b73-a643-bd3cc902b681"
      alt="final alignment pcd example" width = 640 height = 480 />
-</p>
+</div>
+<br></br>
